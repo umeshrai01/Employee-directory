@@ -83,3 +83,5 @@ The frontend will run at http://localhost:5173.
 	•	Django Admin Panel: http://localhost:8000/admin (use superuser credentials).
 
 
+## Developed by ~ **Umesh Kumar Rai**
+
