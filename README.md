@@ -6,10 +6,10 @@ The **Employee Directory** is a web application designed to manage employee info
 ## Screenshots
 
 ### Adding a New Employee
-![Add Employee](./screenshots/Add-Employee.png)
+![Add Employee](./screenshots/Add_Employee.png)
 
 ### Editing Employee Details
-![Edit Employee](./screenshots/Edit-employee.png)
+![Edit Employee](./screenshots/Edit_employee.png)
 
 ### Homepage
 ![Homepage](./screenshots/Homepage.png)
