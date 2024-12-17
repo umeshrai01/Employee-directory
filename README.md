@@ -3,6 +3,23 @@
 ## Overview
 The **Employee Directory** is a web application designed to manage employee information. It provides functionalities to add, edit, delete, and view employee details through a responsive and user-friendly interface.
 
+## Screenshots
+
+### Adding a New Employee
+![Add Employee](./screenshots/Add-Employee.png)
+
+### Editing Employee Details
+![Edit Employee](./screenshots/Edit-employee.png)
+
+### Homepage
+![Homepage](./screenshots/Homepage.png)
+
+### Delete Dialogue Box
+![Delete Dialogue Box](./screenshots/Delete_dialogue_Box.png)
+
+### Material UI icon and toolkit
+![Material UI](./screenshots/Material_UI_icons.png)
+
 This project uses:
 - **Frontend**: React.js with Material-UI for styling.
 - **Backend**: Python with Django REST Framework.
