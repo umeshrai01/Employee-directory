@@ -1,7 +1,7 @@
 # Employee-directory
 
 ## Overview
-The **Employee Directory Management System** is a web application designed to manage employee information. It provides functionalities to add, edit, delete, and view employee details through a responsive and user-friendly interface.
+The **Employee Directory** is a web application designed to manage employee information. It provides functionalities to add, edit, delete, and view employee details through a responsive and user-friendly interface.
 
 This project uses:
 - **Frontend**: React.js with Material-UI for styling.
@@ -73,3 +73,13 @@ npm install
 npm run dev
 ```
 The frontend will run at http://localhost:5173.
+
+4. Running the Application
+
+	1.	Ensure both the backend and frontend servers are running.
+	2.	Open your browser and navigate to:
+	•	Frontend: http://localhost:5173.
+	•	Backend API: http://localhost:8000/api.
+	•	Django Admin Panel: http://localhost:8000/admin (use superuser credentials).
+
+
