@@ -85,7 +85,11 @@ The backend will run at http://localhost:8000.
 ```bash
 npm install
 ```
-2. Start the development server:
+2. Install **Material UI** and its peer dependencies.
+```bash
+npm install @mui/material @emotion/react @emotion/styled
+```
+3. Start the development server:
 ```bash
 npm run dev
 ```
