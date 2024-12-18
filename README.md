@@ -81,6 +81,8 @@ python manage.py runserver
 The backend will run at http://localhost:8000.
 
 ### 3. Frontend Setup
+(On another Terminal)
+
 1.	Install Node.js dependencies:
 ```bash
 npm install
